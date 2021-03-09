@@ -1,0 +1,19 @@
+﻿@if (this.Player != null)
+{
+    <tr>
+        <td>
+            <NavLink href="@($"player/{Player.Id}")">
+                @Player.Name
+            </NavLink>
+        </td>
+
+        <td>@Player.Team</td>
+        <td>@Player.MarketPrice.ToString("c")</td>
+    </tr>
+}
+
+
+@code {
+    [Parameter]
+    public Player Player { get; set; }
+}

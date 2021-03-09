@@ -1,0 +1,55 @@
+﻿@page "/players"
+
+@inject ISearchPlayer SearchPlayer
+
+<h3>Search Players</h3>
+
+<br/>
+
+<SearchHelperBarComponent SearchingString="HandleSearch"></SearchHelperBarComponent>
+<br/>
+
+<table class="table table-dark text-center">
+    <thead>
+    <tr style="color: yellow">
+        <th>Name</th>
+        <th>Team</th>
+        <th>Market price</th>
+    </tr>
+    </thead>
+    <tbody>
+        @if (players != null && players.Any())
+        {
+            @foreach (var player in players)
+            {
+                <PlayerHelperComponent Player="player"></PlayerHelperComponent>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5">
+                    No players to show.
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code {
+
+    private IEnumerable<Player> players;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        players = SearchPlayer.SearchingPlayers();
+    }
+
+    private void HandleSearch(string query)
+    {
+        players = SearchPlayer.SearchingPlayers(query);
+    }
+
+}

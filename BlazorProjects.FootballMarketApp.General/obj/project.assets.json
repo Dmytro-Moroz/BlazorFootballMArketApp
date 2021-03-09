@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "FootballMarket.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FootballMarket.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FootballMarket.Core.dll": {}
+        }
+      },
+      "FootballMarket.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FootballMarket.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FootballMarket.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FootballMarket.DataAccess.dll": {}
+        }
+      },
+      "FootballMarket.Scenario/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FootballMarket.Core": "1.0.0",
+          "FootballMarket.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FootballMarket.Scenario.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FootballMarket.Scenario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FootballMarket.Core/1.0.0": {
+      "type": "project",
+      "path": "../FootballMarket.Core/FootballMarket.Core.csproj",
+      "msbuildProject": "../FootballMarket.Core/FootballMarket.Core.csproj"
+    },
+    "FootballMarket.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../FootballMarket.DataAccess/FootballMarket.DataAccess.csproj",
+      "msbuildProject": "../FootballMarket.DataAccess/FootballMarket.DataAccess.csproj"
+    },
+    "FootballMarket.Scenario/1.0.0": {
+      "type": "project",
+      "path": "../FootballMarket.Scenario/FootballMarket.Scenario.csproj",
+      "msbuildProject": "../FootballMarket.Scenario/FootballMarket.Scenario.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "FootballMarket.Core >= 1.0.0",
+      "FootballMarket.DataAccess >= 1.0.0",
+      "FootballMarket.Scenario >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\BlazorProjects.FootballMarketApp.General\\BlazorProjects.FootballMarketApp.General.csproj",
+      "projectName": "BlazorProjects.FootballMarketApp.General",
+      "projectPath": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\BlazorProjects.FootballMarketApp.General\\BlazorProjects.FootballMarketApp.General.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\BlazorProjects.FootballMarketApp.General\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.Core\\FootballMarket.Core.csproj": {
+              "projectPath": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.Core\\FootballMarket.Core.csproj"
+            },
+            "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.DataAccess\\FootballMarket.DataAccess.csproj": {
+              "projectPath": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.DataAccess\\FootballMarket.DataAccess.csproj"
+            },
+            "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.Scenario\\FootballMarket.Scenario.csproj": {
+              "projectPath": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.Scenario\\FootballMarket.Scenario.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

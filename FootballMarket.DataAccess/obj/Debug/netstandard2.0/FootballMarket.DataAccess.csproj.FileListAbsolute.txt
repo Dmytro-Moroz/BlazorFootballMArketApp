@@ -1,0 +1,12 @@
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\bin\Debug\netstandard2.0\FootballMarket.DataAccess.deps.json
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\bin\Debug\netstandard2.0\FootballMarket.DataAccess.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\bin\Debug\netstandard2.0\FootballMarket.DataAccess.pdb
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\bin\Debug\netstandard2.0\FootballMarket.Core.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\bin\Debug\netstandard2.0\FootballMarket.Core.pdb
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.csprojAssemblyReference.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.AssemblyInfoInputs.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.AssemblyInfo.cs
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.csproj.CoreCompileInputs.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.csproj.CopyComplete
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.DataAccess\obj\Debug\netstandard2.0\FootballMarket.DataAccess.pdb

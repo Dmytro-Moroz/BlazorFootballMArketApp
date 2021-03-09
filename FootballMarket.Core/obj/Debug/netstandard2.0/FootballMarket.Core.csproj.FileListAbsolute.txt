@@ -1,0 +1,9 @@
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\bin\Debug\netstandard2.0\FootballMarket.Core.deps.json
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\bin\Debug\netstandard2.0\FootballMarket.Core.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\bin\Debug\netstandard2.0\FootballMarket.Core.pdb
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\obj\Debug\netstandard2.0\FootballMarket.Core.csprojAssemblyReference.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\obj\Debug\netstandard2.0\FootballMarket.Core.AssemblyInfoInputs.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\obj\Debug\netstandard2.0\FootballMarket.Core.AssemblyInfo.cs
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\obj\Debug\netstandard2.0\FootballMarket.Core.csproj.CoreCompileInputs.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\obj\Debug\netstandard2.0\FootballMarket.Core.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Core\obj\Debug\netstandard2.0\FootballMarket.Core.pdb

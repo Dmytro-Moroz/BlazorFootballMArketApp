@@ -1,0 +1,14 @@
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.Scenario.deps.json
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.Scenario.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.Scenario.pdb
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.Core.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.DataAccess.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.Core.pdb
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\bin\Debug\netstandard2.0\FootballMarket.DataAccess.pdb
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.csprojAssemblyReference.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.AssemblyInfoInputs.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.AssemblyInfo.cs
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.csproj.CoreCompileInputs.cache
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.csproj.CopyComplete
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.dll
+D:\Cprojects\BlazorProjects.FootballMarketApp\FootballMarket.Scenario\obj\Debug\netstandard2.0\FootballMarket.Scenario.pdb

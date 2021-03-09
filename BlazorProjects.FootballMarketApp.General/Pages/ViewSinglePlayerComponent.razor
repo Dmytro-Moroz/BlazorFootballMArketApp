@@ -1,0 +1,35 @@
+﻿@page "/player/{id:int}"
+
+@inject IViewPlayer ViewPlayer
+
+<h3>Player information</h3>
+
+<div class="card text-center" style="width: 100%;">
+    <div class="card-body" style="background-color: cornsilk;">
+        <img src="@_player.Image" class="img-fluid" style="width: 20%; height: 20%;" />
+        <h4 class="card-title">@_player.Name</h4>
+        <h5 class="card-subtitle m-2 text-muted">@_player.Team</h5>
+        <hr/>
+        <p>
+            TransferMarket Price: <label style="color:blueviolet">@_player.MarketPrice.ToString("C")</label>
+        </p>
+        <p class="card-text">@_player.PlayerBio</p>
+    </div>
+</div>
+<NavLink href="players">Back to list of Players</NavLink>
+
+@code {
+    private Player _player;
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+
+        if(Id > 0)
+            _player = ViewPlayer.ViewPlayers(Id);
+    }
+
+}

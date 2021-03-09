@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FootballMarket.Core\FootballMarket.Core.csproj" />
+    <ProjectReference Include="..\FootballMarket.DataAccess\FootballMarket.DataAccess.csproj" />
+    <ProjectReference Include="..\FootballMarket.Scenario\FootballMarket.Scenario.csproj" />
+  </ItemGroup>
+
+</Project>

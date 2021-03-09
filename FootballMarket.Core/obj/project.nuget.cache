@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeARy8Rs0Bv+RdaWOgSwFSWtQpo2JrzUc5qaHiOU7E6dy27/VJdLm6qMPUB0Z3UZ+WscyqqjHt8q/GNbh735qw==",
+  "success": true,
+  "projectFilePath": "D:\\Cprojects\\BlazorProjects.FootballMarketApp\\FootballMarket.Core\\FootballMarket.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
